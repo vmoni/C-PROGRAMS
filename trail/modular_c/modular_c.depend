@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1757159471 source:e:\cadd\c\trail\modular_c\add.c
+	<stdio.h>
+	<stdlib.h>
+	"add.h"
+
+1757159522 e:\cadd\c\trail\modular_c\add.h
+
+1757159320 source:e:\cadd\c\trail\modular_c\divi.c
+	<stdio.h>
+	<stdlib.h>
+	"divi.h"
+
+1757159522 e:\cadd\c\trail\modular_c\divi.h
+
+1757159428 source:e:\cadd\c\trail\modular_c\main.c
+	<stdio.h>
+	<stdlib.h>
+	"add.h"
+	"sub.h"
+	"mul.h"
+	"divi.h"
+
+1757159522 e:\cadd\c\trail\modular_c\sub.h
+
+1757159522 e:\cadd\c\trail\modular_c\mul.h
+
+1757159320 source:e:\cadd\c\trail\modular_c\mul.c
+	<stdio.h>
+	<stdlib.h>
+	"mul.h"
+
+1757159320 source:e:\cadd\c\trail\modular_c\sub.c
+	<stdio.h>
+	<stdlib.h>
+	"sub.h"
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1767009831 source:e:\cadd_training\c\storage_classes\fap\main.c
+	<stdio.h>
+	<stdlib.h>
+

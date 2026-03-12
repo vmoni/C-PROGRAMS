@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1772264536 source:e:\cadd_training\c\dynamic_memory\main.c
+	<stdio.h>
+	<stdlib.h>
+

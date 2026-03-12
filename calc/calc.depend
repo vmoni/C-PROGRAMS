@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1767784388 source:e:\cadd_training\c\storage_classes\calc\main.c
+	<stdio.h>
+	<stdlib.h>
+	"calc.h"
+
+1767784108 e:\cadd_training\c\storage_classes\calc\calc.h
+
+1767784122 source:e:\cadd_training\c\storage_classes\calc\calc.c
+

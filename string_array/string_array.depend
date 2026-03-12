@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1764755926 source:e:\cadd_training\c\string_array\main.c
+	<stdio.h>
+	<stdlib.h>
+

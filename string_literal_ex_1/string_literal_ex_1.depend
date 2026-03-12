@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1768033550 source:e:\cadd_training\c\storage_classes\string_literal_ex_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

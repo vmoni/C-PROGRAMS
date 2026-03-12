@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1756812854 source:e:\cadd\c\trail\7\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdint.h>
+

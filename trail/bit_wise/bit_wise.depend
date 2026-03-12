@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1757151886 source:e:\cadd\c\trail\bit_wise\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+

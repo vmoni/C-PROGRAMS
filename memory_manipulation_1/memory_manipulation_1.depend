@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1767699293 source:e:\cadd_training\c\storage_classes\memory_manipulation_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

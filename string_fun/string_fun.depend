@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1764933545 source:e:\cadd_training\c\string_fun\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

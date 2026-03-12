@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1764069878 source:e:\cadd_training\c\no_return\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdnoreturn.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1763463012 source:e:\cadd_training\c\p1\main.c
+	<stdio.h>
+	<stdlib.h>
+

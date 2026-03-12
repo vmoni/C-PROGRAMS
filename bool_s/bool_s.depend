@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1764669645 source:e:\cadd_training\c\bool_s\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

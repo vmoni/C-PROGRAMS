@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1764413199 source:e:\cadd_training\c\volatile_e1\main.c
+	<stdio.h>
+	<time.h>
+
