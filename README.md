@@ -479,10 +479,4 @@ embedded-c-programming/
 - [The C Programming Language — Kernighan & Ritchie](https://en.wikipedia.org/wiki/The_C_Programming_Language)
 - [GCC Documentation](https://gcc.gnu.org/onlinedocs/)
 - [AVR Libc Reference Manual](https://www.nongnu.org/avr-libc/user-manual/)
-- [Embedded C Coding Standard — Barr Group](https://barrgroup.com/embedded-systems/books/embedded-c-coding-standard)
 
----
-
-<div align="center">
-  Made with ❤️ for Embedded Systems Engineers
-</div>
